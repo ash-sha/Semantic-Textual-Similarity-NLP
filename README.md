@@ -1,4 +1,4 @@
-# NLP-STS
+# NLP-Measuring semantic sentence similarity using baseline and neural models
 
 ## 1. Pre-Requisites
 
