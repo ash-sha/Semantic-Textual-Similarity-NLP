@@ -1,0 +1,17 @@
+Cython==3.0.11
+fastapi==0.115.6
+gensim
+joblib
+matplotlib
+nltk==3.9.1
+numpy==2.2.0
+pandas==2.2.3
+pydantic==2.10.3
+Requests==2.32.3
+scikit_learn==1.6.0
+scipy==1.14.1
+torch==2.5.1
+tqdm==4.67.0
+transformers==4.47.0
+uvicorn==0.34.0
+

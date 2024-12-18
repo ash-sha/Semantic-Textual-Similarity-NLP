@@ -1,0 +1,9 @@
+data/
+Notebook/
+logs/
+sent2vec/
+BioSentVec_PubMed_MIMICIII-bigram_d700.bin
+PubMed-and-PMC-w2v.bin
+.git
+models/model.safetensors
+semanticsim_docker.tar
