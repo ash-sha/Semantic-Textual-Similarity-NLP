@@ -23,5 +23,5 @@ Language: Python, NLTK library
 
 
 ##### Docker image : /aswaths/semantic_similarity:v3
-##### Streamlit: 
-##### Inference API : https://semantic-similarity-v3.onrender.com/docs
+##### Streamlit: https://semanticsimilarity.streamlit.app
+##### Inference API on render: https://semantic-similarity-v3.onrender.com/docs
