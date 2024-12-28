@@ -2,7 +2,6 @@
 
 The objective of this project is to improve the similarity between the sentences by implementing and designing various Machine Learning and Deep learning models in Natural Language Processing. By applying various techniques, we try to reduce the mean square error of the model and assess the distance between the words or sentences in the vector space using cosine distance similarity and word movers distance.
 
-Language: Python, NLTK library
 ## 1. Pre-Requisites
 
 ##### • Python Editor (eg: Pycharm , Anaconda) with Python 3.
